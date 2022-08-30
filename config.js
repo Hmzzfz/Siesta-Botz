@@ -41,30 +41,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/XyzenzKannaV1'
-global.sgh = 'https://github.com/XyzenzKannaV1'
-global.sgc = 'https://chat.whatsapp.com/KNuPWvGn3AG0srT3vdr0Ea'
-global.sdc = 'https://wa.me/6283866366437'
-global.snh = 'https://youtube.com/channel/Siesta Botz'
+global.sig = 'https://instagram.com/syidaa._'
+global.sgh = 'https://github.com/Hmzzfz'
+global.sgc = 'https://chat.whatsapp.com/L5X4iarh2CyBrFTMYxfD3o'
+global.sdc = 'https://wa.me/14708122938'
+global.snh = 'https://youtube.com/channel/HAMZXPRESET'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083866366437'
-global.povo = '083866366437'
-global.pgopay = '083866366437'
+global.pdana = '085890531178'
+global.povo = 'GDA'
+global.pgopay = '085890531178'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283112831554'
-global.nomorown = '6283866366437'
-global.namebot = 'Siesta MD'
-global.nameown = 'Kanna Chan'
+global.nomorbot = '6285890531178'
+global.nomorown = '14708122938'
+global.namebot = 'HAMZ BOTZ'
+global.nameown = 'devoloper BOTZ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283866366437'],
-  ['6283866366437'],
-  ['6283866366437'],
-  ['6283866366437', 'Kanna Chan', true]
+  ['14708122938'],
+  ['14708122938'],
+  ['14708122938'],
+  ['14708122938', 'hamz devoloper', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,9 +109,9 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Siesta MD' //Main Watermark
-global.wm2 = 'Siesta MD'
-global.wm3 = 'Siesta MD'
+global.wm = 'Hamzx MD' //Main Watermark
+global.wm2 = 'Hamzx MD'
+global.wm3 = 'Hamzx MD'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
@@ -175,8 +175,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '☘︎' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
-global.stickauth = `.`
+global.stickpack = 'hamzz'
+global.stickauth = `BOTZ HAMZ`
 
 global.multiplier = 38 // The higher, The harder levelup
 
